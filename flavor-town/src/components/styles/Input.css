@@ -1,0 +1,7 @@
+input{
+    font-size: 1rem;
+    padding: 1rem;
+    width: 20dvw;
+    border-radius: 1rem;
+    border: 0.2rem solid var(--shadow-color);
+}
