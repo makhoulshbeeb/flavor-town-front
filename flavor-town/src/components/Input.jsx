@@ -1,7 +1,7 @@
 import './styles/Input.css'
 
-export default function Input({ name, id, placeholder }) {
+export default function Input({ name, id, placeholder, change }) {
     return (
-        <input name={name} id={id} placeholder={placeholder} />
+        <input name={name} id={id} placeholder={placeholder}  />
     );
 }

@@ -1,0 +1,6 @@
+.add-recipe-panel{
+    width:50dvw;
+    height: 80dvh;
+    box-shadow: -0.2vw 0.8vh 1vh 0.5vh var(--shadow-color);
+
+}

@@ -1,0 +1,19 @@
+.floating-btn{
+    cursor: pointer;
+    transition: 0.3s;
+    width: 5rem;
+    height: 5rem;
+    border: 0;
+    border-radius: 32px;
+    background-color: var(--primary-color);
+    background-size: 48px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: fixed;
+    bottom:2rem;
+    right:3rem;
+    z-index: 10;
+    font-size: 3rem;
+    color: var(--background-light);
+    align-items: center;
+}
